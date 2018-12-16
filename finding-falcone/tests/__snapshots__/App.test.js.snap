@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> should match with snapshot 1`] = `
+"<Fragment>
+  <HeaderComponent />
+  <div>
+    <CustomDropdown title=\\"Destination 1\\" dropdownValues={{...}} />
+  </div>
+  <FooterComponent />
+</Fragment>"
+`;

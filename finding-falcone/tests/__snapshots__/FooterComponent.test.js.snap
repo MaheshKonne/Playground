@@ -1,0 +1,281 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FooterComponent /> should match with snapshot 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <FooterComponent />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateError": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "function",
+    "props": Object {
+      "children": Array [
+        <footer>
+          <div>
+            <a
+              href="www.geektrust.in/finding-falcone"
+            >
+              Coding problem - www.geektrust.in/finding-falcone
+            </a>
+          </div>
+        </footer>,
+        <style>
+          
+            footer {
+                height: 70px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background-color: rgba(200,200,200,0.5);
+                position: fixed;
+                width: 100%;
+                bottom: 0;
+            }
+            a {
+                text-decoration: none;
+                color: black;
+            }
+            
+        </style>,
+      ],
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": <div>
+            <a
+              href="www.geektrust.in/finding-falcone"
+            >
+              Coding problem - www.geektrust.in/finding-falcone
+            </a>
+          </div>,
+        },
+        "ref": null,
+        "rendered": Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": <a
+              href="www.geektrust.in/finding-falcone"
+            >
+              Coding problem - www.geektrust.in/finding-falcone
+            </a>,
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": "Coding problem - www.geektrust.in/finding-falcone",
+              "href": "www.geektrust.in/finding-falcone",
+            },
+            "ref": null,
+            "rendered": "Coding problem - www.geektrust.in/finding-falcone",
+            "type": "a",
+          },
+          "type": "div",
+        },
+        "type": "footer",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": "
+            footer {
+                height: 70px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background-color: rgba(200,200,200,0.5);
+                position: fixed;
+                width: 100%;
+                bottom: 0;
+            }
+            a {
+                text-decoration: none;
+                color: black;
+            }
+            ",
+        },
+        "ref": null,
+        "rendered": "
+            footer {
+                height: 70px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background-color: rgba(200,200,200,0.5);
+                position: fixed;
+                width: 100%;
+                bottom: 0;
+            }
+            a {
+                text-decoration: none;
+                color: black;
+            }
+            ",
+        "type": "style",
+      },
+    ],
+    "type": Symbol(react.fragment),
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "function",
+      "props": Object {
+        "children": Array [
+          <footer>
+            <div>
+              <a
+                href="www.geektrust.in/finding-falcone"
+              >
+                Coding problem - www.geektrust.in/finding-falcone
+              </a>
+            </div>
+          </footer>,
+          <style>
+            
+            footer {
+                height: 70px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background-color: rgba(200,200,200,0.5);
+                position: fixed;
+                width: 100%;
+                bottom: 0;
+            }
+            a {
+                text-decoration: none;
+                color: black;
+            }
+            
+          </style>,
+        ],
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": <div>
+              <a
+                href="www.geektrust.in/finding-falcone"
+              >
+                Coding problem - www.geektrust.in/finding-falcone
+              </a>
+            </div>,
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": <a
+                href="www.geektrust.in/finding-falcone"
+              >
+                Coding problem - www.geektrust.in/finding-falcone
+              </a>,
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": "Coding problem - www.geektrust.in/finding-falcone",
+                "href": "www.geektrust.in/finding-falcone",
+              },
+              "ref": null,
+              "rendered": "Coding problem - www.geektrust.in/finding-falcone",
+              "type": "a",
+            },
+            "type": "div",
+          },
+          "type": "footer",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": "
+            footer {
+                height: 70px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background-color: rgba(200,200,200,0.5);
+                position: fixed;
+                width: 100%;
+                bottom: 0;
+            }
+            a {
+                text-decoration: none;
+                color: black;
+            }
+            ",
+          },
+          "ref": null,
+          "rendered": "
+            footer {
+                height: 70px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background-color: rgba(200,200,200,0.5);
+                position: fixed;
+                width: 100%;
+                bottom: 0;
+            }
+            a {
+                text-decoration: none;
+                color: black;
+            }
+            ",
+          "type": "style",
+        },
+      ],
+      "type": Symbol(react.fragment),
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getDerivedStateFromProps": true,
+          "getSnapshotBeforeUpdate": true,
+          "setState": Object {
+            "skipsComponentDidUpdateOnNullish": true,
+          },
+        },
+      },
+    },
+  },
+}
+`;
